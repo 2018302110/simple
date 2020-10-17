@@ -1,0 +1,5 @@
+单例模式：在Form1类中StartPage,ShowResult,Custom,Relevance类
+各有且只有一个实例，在每个按钮方法中可以访问它们。
+
+观察者模式：在本winform程序中，开始，自定义，关联页的任一个按钮
+被点击都会使相应的三个结果显示textbox更新显示。
