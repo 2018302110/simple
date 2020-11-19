@@ -1,0 +1,2 @@
+说明：将removeNonWords函数（处理初始文本非汉字部分的函数）
+放到了webservice中。
